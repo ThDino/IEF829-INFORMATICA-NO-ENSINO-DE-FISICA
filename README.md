@@ -48,6 +48,10 @@ $\textcolor{green}{\text{AAAAA HULK É BRABO}}$
 | A | B | C |
 
 
+Lei de Faraday na forma diferencial eh dada por:  $\nabla X \vec {E} = - \frac{\partial \vec{B}}{\partial t}$
+
+A lei de newton eh dada por:  $$\vec{F_{R}}=\dfrac{d}{dt}(m\vec{v})$$
+
 
 ## Título Nível 2
 ### Título Nível 3 
