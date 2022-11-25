@@ -55,6 +55,11 @@ A lei de newton eh dada por:  $$\vec{F_{R}}=\dfrac{d}{dt}(m\vec{v})$$
 
 :alien::alien::alien::alien::alien::alien::alien::alien::alien::alien::alien:
 
+
+
+Markdown eh legal [^1] 
+[^1]: D.Ferreira,2022. Acessado em 25/11/2022 <https://gitlab.com/help/user/markdown>
+
 ## Título Nível 2
 ### Título Nível 3 
 #### Título nível 4
