@@ -3,8 +3,7 @@
  
  *Markdown tá tirando onda com a minha cara não é possível*
  ***esse Markdown é um danadinho***
- vou **Trancar** o Curso     <https://pt.wikipedia.org/wiki/Markdown>
-
+ vou **Trancar** o Curso     <https://pt.wikipedia.org/wiki/Markdown>       [agora vamos vagabundar clickando aki](https://www.youtube.com)
 ## Título Nível 2
 ### Título Nível 3 
 #### Título nível 4
