@@ -4,7 +4,7 @@
  *Markdown tá tirando onda com a minha cara não é possível*
  ***esse Markdown é um danadinho***
  vou **Trancar** o Curso     <https://pt.wikipedia.org/wiki/Markdown>        [agora vamos vagabundar clickando aki](https://www.youtube.com)
- 
+ :hear_no_evil::hear_no_evil::hear_no_evil::hear_no_evil::hear_no_evil::hear_no_evil::hear_no_evil::hear_no_evil::hear_no_evil:
  
  > Será se vale a pena mesmo terminar esse curso meu deus?
  
@@ -33,7 +33,7 @@ $\textcolor{green}{\text{AAAAA HULK É BRABO}}$
 | A | B | C |
 
 
-
+:banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana::banana:
 
 
 | coluna 1 | coluna 2 | coluna 3 |
@@ -52,6 +52,8 @@ Lei de Faraday na forma diferencial eh dada por:  $\nabla X \vec {E} = - \frac{\
 
 A lei de newton eh dada por:  $$\vec{F_{R}}=\dfrac{d}{dt}(m\vec{v})$$
 
+
+:alien::alien::alien::alien::alien::alien::alien::alien::alien::alien::alien:
 
 ## Título Nível 2
 ### Título Nível 3 
