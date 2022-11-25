@@ -34,6 +34,21 @@ $\textcolor{green}{\text{AAAAA HULK É BRABO}}$
 
 
 
+
+
+| coluna 1 | coluna 2 | coluna 3 |
+|---:|---:|---:|
+| X | Y | Z |
+| A | B | C |
+
+
+| coluna 1 | coluna 2 | coluna 3 |
+|:---:|:---:|:---:|
+| X | Y | Z |
+| A | B | C |
+
+
+
 ## Título Nível 2
 ### Título Nível 3 
 #### Título nível 4
