@@ -4,6 +4,20 @@
  *Markdown tá tirando onda com a minha cara não é possível*
  ***esse Markdown é um danadinho***
  vou **Trancar** o Curso     <https://pt.wikipedia.org/wiki/Markdown>       [agora vamos vagabundar clickando aki](https://www.youtube.com)
+ 
+ 
+ 
+ 
+ 
+ * Item 2
+ * droga 3
+ * droga 4
+ * droga 5
+1. Carambola
+2. Banana
+3. abacaxi
+4. catapimbas
+
 ## Título Nível 2
 ### Título Nível 3 
 #### Título nível 4
