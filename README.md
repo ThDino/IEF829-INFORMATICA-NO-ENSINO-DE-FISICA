@@ -17,7 +17,9 @@
 2. Banana
 3. abacaxi
 4. catapimbas
-![333e8d17e35c19e383d00bc877953638--imaginate-monkey-business](https://user-images.githubusercontent.com/118854181/204056733-a053d556-5a4f-4dcb-af09-51fe3e9c3362.jpg)
+
+
+   ![333e8d17e35c19e383d00bc877953638--imaginate-monkey-business](https://user-images.githubusercontent.com/118854181/204056733-a053d556-5a4f-4dcb-af09-51fe3e9c3362.jpg)
 
 $\colorbox{red}{AAAAAA QUE PREGUIÇA DO K7}$
 $\textcolor{green}{\text{AAAAA HULK É BRABO}}$
